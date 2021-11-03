@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Monitoramento.Serilog
+build_property.ProjectDir = C:\Projetos\Monitoramento\src\Monitoramento.Serilog\

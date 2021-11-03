@@ -1,0 +1,17 @@
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\bin\Debug\netcoreapp3.1\Monitoramento.Serilog.deps.json
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\bin\Debug\netcoreapp3.1\Monitoramento.Serilog.dll
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\bin\Debug\netcoreapp3.1\Monitoramento.Serilog.pdb
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\bin\Debug\netcoreapp3.1\Monitoramento.Domain.dll
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\bin\Debug\netcoreapp3.1\Monitoramento.Infra.Data.dll
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\bin\Debug\netcoreapp3.1\Monitoramento.Infra.IoC.dll
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\bin\Debug\netcoreapp3.1\Monitoramento.Infra.IoC.pdb
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\bin\Debug\netcoreapp3.1\Monitoramento.Domain.pdb
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\bin\Debug\netcoreapp3.1\Monitoramento.Infra.Data.pdb
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\obj\Debug\netcoreapp3.1\Monitoramento.Serilog.csproj.AssemblyReference.cache
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\obj\Debug\netcoreapp3.1\Monitoramento.Serilog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\obj\Debug\netcoreapp3.1\Monitoramento.Serilog.AssemblyInfoInputs.cache
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\obj\Debug\netcoreapp3.1\Monitoramento.Serilog.AssemblyInfo.cs
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\obj\Debug\netcoreapp3.1\Monitoramento.Serilog.csproj.CoreCompileInputs.cache
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\obj\Debug\netcoreapp3.1\Monitoramento.Serilog.csproj.CopyComplete
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\obj\Debug\netcoreapp3.1\Monitoramento.Serilog.dll
+C:\Projetos\Monitoramento\src\Monitoramento.Serilog\obj\Debug\netcoreapp3.1\Monitoramento.Serilog.pdb

@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Monitoramento.Domain\Monitoramento.Domain.csproj" />
+    <ProjectReference Include="..\Monitoramento.Infra.Data\Monitoramento.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

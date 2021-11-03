@@ -1,0 +1,10 @@
+C:\Projetos\CleanArchitecture\Monitoramento\bin\Debug\netcoreapp3.1\Monitoramento.deps.json
+C:\Projetos\CleanArchitecture\Monitoramento\bin\Debug\netcoreapp3.1\Monitoramento.dll
+C:\Projetos\CleanArchitecture\Monitoramento\bin\Debug\netcoreapp3.1\Monitoramento.pdb
+C:\Projetos\CleanArchitecture\Monitoramento\obj\Debug\netcoreapp3.1\Monitoramento.csproj.AssemblyReference.cache
+C:\Projetos\CleanArchitecture\Monitoramento\obj\Debug\netcoreapp3.1\Monitoramento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CleanArchitecture\Monitoramento\obj\Debug\netcoreapp3.1\Monitoramento.AssemblyInfoInputs.cache
+C:\Projetos\CleanArchitecture\Monitoramento\obj\Debug\netcoreapp3.1\Monitoramento.AssemblyInfo.cs
+C:\Projetos\CleanArchitecture\Monitoramento\obj\Debug\netcoreapp3.1\Monitoramento.csproj.CoreCompileInputs.cache
+C:\Projetos\CleanArchitecture\Monitoramento\obj\Debug\netcoreapp3.1\Monitoramento.dll
+C:\Projetos\CleanArchitecture\Monitoramento\obj\Debug\netcoreapp3.1\Monitoramento.pdb

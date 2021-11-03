@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Monitoramento.Infra.IoC
+build_property.ProjectDir = C:\Projetos\Monitoramento\src\Monitoramento.Infra.IoC\
