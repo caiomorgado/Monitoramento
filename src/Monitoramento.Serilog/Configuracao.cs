@@ -15,7 +15,7 @@ namespace Monitoramento
         {
             Runner
                 .RodarMigrations(ConfiguracaoVo.Configuracao.GetConnectionString("LogConnection"));
-
+            //
             var logger = new LoggerConfiguration()
                 .ReadFrom
                 .Configuration(configuration)
