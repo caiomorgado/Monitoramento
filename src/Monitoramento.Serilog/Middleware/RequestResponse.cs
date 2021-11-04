@@ -6,7 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Monitoramento.Middleware
+namespace Monitoramento.Serilog.Middleware
 {
     public class RequestResponse
     {
@@ -25,8 +25,7 @@ namespace Monitoramento.Middleware
 
             var request = await LogRequest(context);
 
-            LogContext.PushProperty("Usuario", usuario);
-
+            using (LogContext.PushProperty("UsuarioId", usuario))
             using (LogContext.PushProperty("RequestHttp", request))
             {
                 await _next.Invoke(context);

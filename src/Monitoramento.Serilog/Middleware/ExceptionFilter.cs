@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.Filters;
 using Serilog;
 
-namespace Monitoramento.Middleware
+namespace Monitoramento.Serilog.Middleware
 {
     public class ExceptionFilter : IExceptionFilter
     {
@@ -16,7 +16,7 @@ namespace Monitoramento.Middleware
         {
             _logger.Error(
                 context?.Exception,
-                context?.Exception?.Message);
+                context?.Exception.ToString());
         }
     }
 }
